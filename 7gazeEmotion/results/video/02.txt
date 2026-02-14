@@ -1,0 +1,30 @@
+[
+    {
+        "Angry": 84,
+        "Disgust": 0,
+        "Fear": 5,
+        "Happy": 184,
+        "Sad": 42,
+        "Surprise": 32,
+        "Neutral": 426,
+        "direction": "[776 337], [1029  621]",
+        "label": [
+            "Neutral",
+            "Happy"
+        ]
+    },
+    {
+        "Angry": 2,
+        "Disgust": 0,
+        "Fear": 0,
+        "Happy": 3,
+        "Sad": 0,
+        "Surprise": 0,
+        "Neutral": 0,
+        "direction": "[1158   81], [1703  722]",
+        "label": [
+            "Happy",
+            "Angry"
+        ]
+    }
+]

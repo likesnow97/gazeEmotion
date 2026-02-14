@@ -1,0 +1,13 @@
+[
+    {
+        "Stress": 0,
+        "Anxiety": 126,
+        "Depression": 60,
+        "Normal": 100,
+        "direction": "[298 234], [460 421]",
+        "label": [
+            "Anxiety",
+            "Normal"
+        ]
+    }
+]

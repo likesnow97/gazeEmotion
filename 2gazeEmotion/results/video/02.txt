@@ -1,0 +1,20 @@
+[
+    {
+        "Abnormal": 131,
+        "Normal": 642,
+        "direction": "[776 337], [1029  621]",
+        "label": [
+            "Normal",
+            "Abnormal"
+        ]
+    },
+    {
+        "Abnormal": 2,
+        "Normal": 3,
+        "direction": "[1158   81], [1703  722]",
+        "label": [
+            "Normal",
+            "Abnormal"
+        ]
+    }
+]

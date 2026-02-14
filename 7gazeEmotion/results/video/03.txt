@@ -1,0 +1,58 @@
+[
+    {
+        "Angry": 126,
+        "Disgust": 0,
+        "Fear": 29,
+        "Happy": 615,
+        "Sad": 189,
+        "Surprise": 37,
+        "Neutral": 672,
+        "direction": "[1094  334], [1353  678]",
+        "label": [
+            "Neutral",
+            "Happy"
+        ]
+    },
+    {
+        "Angry": 8,
+        "Disgust": 0,
+        "Fear": 29,
+        "Happy": 427,
+        "Sad": 29,
+        "Surprise": 6,
+        "Neutral": 366,
+        "direction": "[158 331], [558 772]",
+        "label": [
+            "Happy",
+            "Neutral"
+        ]
+    },
+    {
+        "Angry": 14,
+        "Disgust": 0,
+        "Fear": 27,
+        "Happy": 300,
+        "Sad": 31,
+        "Surprise": 7,
+        "Neutral": 169,
+        "direction": "[269 128], [641 565]",
+        "label": [
+            "Happy",
+            "Neutral"
+        ]
+    },
+    {
+        "Angry": 0,
+        "Disgust": 0,
+        "Fear": 1,
+        "Happy": 0,
+        "Sad": 1,
+        "Surprise": 0,
+        "Neutral": 0,
+        "direction": "[894 266], [1098  484]",
+        "label": [
+            "Fear",
+            "Sad"
+        ]
+    }
+]

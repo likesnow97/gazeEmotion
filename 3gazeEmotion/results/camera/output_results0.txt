@@ -1,0 +1,18 @@
+[
+    {
+        "Stress": 0,
+        "Anxiety": 11,
+        "Happy": 37,
+        "Depression": 27,
+        "Neutral": 69,
+        "direction": "[492 230], [647 406]"
+    },
+    {
+        "Stress": 0,
+        "Anxiety": 0,
+        "Happy": 6,
+        "Depression": 13,
+        "Neutral": 6,
+        "direction": "[154 203], [315 390]"
+    }
+]

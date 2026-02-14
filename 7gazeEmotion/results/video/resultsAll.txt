@@ -1,0 +1,6 @@
+results\video\02.txt    [776 337], [1029  621]    Neutral Happy
+results\video\02.txt    [1158   81], [1703  722]    Happy Angry
+results\video\03.txt    [1094  334], [1353  678]    Neutral Happy
+results\video\03.txt    [158 331], [558 772]    Happy Neutral
+results\video\03.txt    [269 128], [641 565]    Happy Neutral
+results\video\03.txt    [894 266], [1098  484]    Fear Sad

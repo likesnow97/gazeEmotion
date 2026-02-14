@@ -1,0 +1,38 @@
+[
+    {
+        "Abnormal": 344,
+        "Normal": 1324,
+        "direction": "[1094  334], [1353  678]",
+        "label": [
+            "Normal",
+            "Abnormal"
+        ]
+    },
+    {
+        "Abnormal": 66,
+        "Normal": 799,
+        "direction": "[158 331], [558 772]",
+        "label": [
+            "Normal",
+            "Abnormal"
+        ]
+    },
+    {
+        "Abnormal": 72,
+        "Normal": 476,
+        "direction": "[269 128], [641 565]",
+        "label": [
+            "Normal",
+            "Abnormal"
+        ]
+    },
+    {
+        "Abnormal": 2,
+        "Normal": 0,
+        "direction": "[894 266], [1098  484]",
+        "label": [
+            "Abnormal",
+            "Normal"
+        ]
+    }
+]
